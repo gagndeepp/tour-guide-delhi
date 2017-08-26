@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Delhi Tour Guide</string>
+
+    <string-array name="qutab_minar">
+        <item>Qutab Minar</item>
+        <item>Qutub Minar is a minaret that forms part of the Qutb complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India.</item>
+        <item>Open 7 Days : 7AM-5PM</item>
+    </string-array>
+    <string-array name="safdarjang_tomb">
+        <item>Tomb of Safdarjang</item>
+        <item>Safdarjung s Tomb is a sandstone and marble mausoleum in New Delhi, India.</item>
+        <item>Open 7 Days : 7AM-5PM</item>
+    </string-array>
+    <string-array name="india_gate">
+        <item>India Gate</item>
+        <item>The India Gate, is a war memorial located astride the Rajpath, on the eastern edge of the ‘ceremonial axis’ of New Delhi, India, formerly called Kingsway</item>
+        <item>Open 24x7</item>
+    </string-array>
+    <string-array name="humayun_tomb">
+        <item>Humayun s Tomb</item>
+        <item>Humayun s tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. </item>
+        <item>Open 7 Days : 7AM-7PM</item>
+    </string-array>
+    <string-array name="agrasen_boali">
+        <item>Agrasen ki Baoli </item>
+        <item>Agrasen ki Baoli is a 60-meter long and 15-meter wide historical step well on Hailey Road [1] near Connaught Place, Jantar Mantar in New Delhi, India.</item>
+        <item>Open 7 Days : 9AM-5.30PM</item>
+    </string-array>
+    <string-array name="red_fort">
+        <item>Red Fort</item>
+        <item>The Red Fort is a historical fort in the city of Delhi in India.It is located in the center of Delhi and houses a number of museums.</item>
+        <item>Open 6 Days(Mon Closed): 9:30AM to 4:30PM</item>
+    </string-array>
+
+    <string-array name="akshardham">
+        <item>Akshardham</item>
+        <item>Akshardham is a Hindu mandir, and a spiritual-cultural campus in New Delhi, India.</item>
+        <item>Open 9:30AM–6:30PM</item>
+    </string-array>
+
+    <string-array name="lotus_temple">
+        <item>Lotus Temple</item>
+        <item>The Lotus Temple, located in Delhi, India, Notable for its Lotus flower shape, it has become a prominent attraction in the city</item>
+        <item>Open 9AM–7PM</item>
+    </string-array>
+
+    <string-array name="iskcon_punjabibagh">
+        <item>ISKCON Temple</item>
+        <item>ISKCON Temple is a well known Vaishnav temple of Lord Krishna and Radharani in the form of Radha Parthasarathi</item>
+        <item>Open 4:30AM–9PM</item>
+    </string-array>
+
+    <string-array name="sisganjsahib">
+        <item>Gurudwara Sis-Ganj Sahib</item>
+        <item>Gurdwara Sis Ganj Sahib, is located at the martyrdom site the ninth Sikh Guru, Guru Tegh Bahadur. Situated in Chandni Chowk in Old Delhi,</item>
+        <item>Open 24x7</item>
+    </string-array>
+
+    <string-array name="banglasahib">
+        <item>Gurudwara Bangla Sahib</item>
+        <item>Gurudwara Bangla Sahib is one of the most prominent Sikh gurdwara, in Delhi and known for its association with the eighth Sikh Guru, Guru Har Krishan. It is located near  Connaught Place</item>
+        <item>Open 24x7</item>
+    </string-array>
+    <string-array name="jama_masjid">
+        <item>Jama Masjid</item>
+        <item>Jama Masjid , or Masjid-i Jahān-Numā ,built by Mughal emperor Shah Jahan is one of the largest mosques in India.</item>
+        <item>Open 7AM–12PM | 1:30PM–6:30PM</item>
+    </string-array>
+
+    <string-array name="cp">
+        <item>Connaught Place</item>
+        <item>Connaught Place or CP , is one of the largest financial and business centres in New Delhi.The Outer Circle is known for having rows of restaurants, shops and hotels.There is a National flag at Central Park</item>
+        <item>Open 24x7</item>
+    </string-array>
+    <string-array name="chandni_chowk">
+        <item>Chandni Chowk</item>
+        <item>The Chandni Chowk is one of the oldest and busiest markets in Old Delhi.Chandni Chowk s speciality is its variety and authenticity: food, delicacies and sweets of more than 1,000 kinds.</item>
+        <item>Open 24x7</item>
+    </string-array>
+    <string-array name="dlf">
+        <item>DLF Emporio</item>
+        <item>DLF Emporio is a high-street shopping mall situated Vasant Kunj. In 2007, it was reported as one of the most expensive malls in the country.it features over 130 brands Like Gucci, Jimmy choo, Versace and tom ford</item>
+        <item> Open 7 Days : 10AM - 9PM </item>
+    </string-array>
+    <string-array name="select_citywalk">
+        <item>Select CITYWALK</item>
+        <item>Select Citywalk is a shopping mall located in the Saket District Centre, in Saket, New Delhi.It includes a 4 km long multiplex, serviced apartments, offices and public spaces. </item>
+        <item>Open 7 Days : 10AM - 11PM </item>
+    </string-array>
+    <string-array name="hauzkhas">
+        <item>HAUZ KHAS Village</item>
+        <item>The ‘Village’ offers great restaurants, dive bars, clubs, and shopping boutiques.Historical Places like the Hauz Khas Complex which consists the Hauz Khas Lake</item>
+        <item>Open 24x7</item>
+    </string-array>
+    <string-array name="dilli_haat">
+        <item>Dilli Haat</item>
+        <item>Dilli Haat is an open-air food plaza and craft bazaar located in Delhi, run by Delhi Tourism and Transportation Development Corporation</item>
+        <item>Open 7 Days : 10.30AM - 10PM</item>
+    </string-array>
+
+    <string-array name="modern_art">
+        <item>National Gallery of Modern Art</item>
+        <item>The NGMA is the premier art gallery under Ministry of Culture, Government of India.Its collection of more than 14,000 works includes works by artists such as Thomas Daniell, Raja Ravi Verma, Rabindranath Tagore.</item>
+        <item>Open 7 Days : 11AM – 6:30PM</item>
+    </string-array>
+
+    <string-array name="handloom_handicraft">
+        <item>National Handicrafts and Handlooms Museum</item>
+        <item>The National Handicrafts and Handlooms Museum (NHHM) commonly known as National Crafts Museum in New Delhi is one of the largest crafts museums in India.It is run by the Ministry of Textiles, Government of India.</item>
+        <item>Open 7 Days : 10AM – 5PM</item>
+    </string-array>
+
+    <string-array name="gandhi_smriti">
+        <item>Gandhi Smriti</item>
+        <item>Gandhi Smriti is a museum dedicated to Mahatma Gandhi, situated in New Delhi, India. It is the location where Mahatma Gandhi spent the last 144 days of his life and was assassinated on 30 January 1948</item>
+        <item>Open 7 Days : 10AM - 5PM</item>
+    </string-array>
+
+    <string-array name="metro_museum">
+        <item>Metro Museum</item>
+        <item>The Metro Museum at Patel Chowk Metro station showcases the genesis, history and journey of the Delhi Metro Rail Corporation (DMRC). India s first modern public transportation system, the Delhi Metro</item>
+        <item>Open 7 Days : 5.30AM - 11.30PM</item>
+    </string-array>
+    <string-array name="air_force">
+        <item>Indian Air Force Museum</item>
+        <item>The Indian Air Force Museum, Palam, is the museum of the Indian Air Force, and is located at the Palam Air Force Station in Delhi, India. Entrance to the museum is free.</item>
+        <item>Open 7 Days : 10AM - 5PM</item>
+    </string-array>
+    <string-array name="science_center">
+        <item>National Science Centre, Delhi</item>
+        <item>The National Science Centre established in 1992, is a science museum in Delhi, India. It is part of the National Council of Science Museums (NCSM), an autonomous body under India s Ministry of Culture.</item>
+        <item>Open 7 Days : 10AM - 5.30PM</item>
+    </string-array>
+
+    <string name="category_architecture">Landmarks</string>
+    <string name="category_museum">Museums</string>
+    <string name="category_religious">Religious Places</string>
+    <string name="category_shopping">Shopping Areas</string>
+
+</resources>
